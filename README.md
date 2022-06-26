@@ -1,23 +1,3 @@
-# OwnTracks Frontend
-
-![Version](https://img.shields.io/github/package-json/v/owntracks/frontend)
-[![Docker Pulls](https://img.shields.io/docker/pulls/owntracks/frontend)](https://hub.docker.com/r/owntracks/frontend)
-[![Build](https://github.com/owntracks/frontend/workflows/Build/badge.svg)](https://github.com/owntracks/frontend/actions?query=workflow%3ABuild+branch%3Amain)
-[![Tests](https://github.com/owntracks/frontend/workflows/Tests/badge.svg)](https://github.com/owntracks/frontend/actions?query=workflow%3ATests+branch%3Amain)
-[![Lint](https://github.com/owntracks/frontend/workflows/Lint/badge.svg)](https://github.com/owntracks/frontend/actions?query=workflow%3ALint+branch%3Amain)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![License](https://img.shields.io/github/license/owntracks/frontend?color=d63e97)](https://github.com/owntracks/frontend/blob/main/LICENSE)
-
-![Screenshot](https://raw.githubusercontent.com/owntracks/frontend/main/docs/images/screenshot.png)
-
-## Introduction
-
-This is a web interface for [OwnTracks](https://github.com/owntracks/recorder) built as
-a Vue.js single page application. The recorder itself already ships with some basic web
-pages, this is a more advanced interface with more functionality, all in one place.
-
-![Map features](https://raw.githubusercontent.com/owntracks/frontend/main/docs/images/map-features.png)
-
 ## Features
 
 - Last known (i.e. live) locations:
@@ -149,8 +129,3 @@ and start translating the individual strings. Make sure to [mention the new loca
 
 For a specific example see commit [`b2edda4`](https://github.com/owntracks/frontend/commit/b2edda410f16633aa6fd9cd4e5250f2031536c7d)
 where German translations were added.
-
-## Contributing
-
-Please feel free to open an issue and discuss your ideas and report bugs. If you think
-you can help out with something, open a PR!
